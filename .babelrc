@@ -1,0 +1,5 @@
+{
+	"plugins": ["react-html-attrs", "transform-class-properties", "add-module-exports"],
+  "presets": ["es2015", "react"],
+  "ignore":  ["src/static/bower_components/**", "src/static/assets/**", "bower.json", "src/static/less/**"]
+}

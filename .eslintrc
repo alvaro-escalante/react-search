@@ -1,0 +1,27 @@
+{
+ 	"eslintConfig": {
+  	"env": {
+  		"browser": true,
+  		"node": true
+  	}
+  },
+	"parserOptions": {
+  	"ecmaVersion": 7,
+  	"sourceType": "module",
+  	"ecmaFeatures": {
+  		"jsx": true,
+  	}
+  },
+ 	"globals": {
+  	"react": true,
+  	"document": true
+  },
+  "parser": "babel-eslint",
+	"rules": {
+		"quotes": [1, "single"],
+		"react/jsx-no-undef": 1,
+  },
+  "plugins": [
+    "react"
+  ]
+}

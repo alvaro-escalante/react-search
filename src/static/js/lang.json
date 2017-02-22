@@ -1,0 +1,43 @@
+[
+	{
+	"name": "Java",
+	"url": "https://www.java.com/en/",
+	"info": "Java is one of the most adopted programming languages, used by nine million developers and running on seven billion devices globally. It was designed to be a language that could run on any device and that is why it is used for software development for computers, smartphones, and even smart TVs."
+	}, {
+	"name": "Python",
+	"url": "https://www.python.org/",
+	"info": "Python is a widely used high-level, general-purpose and dynamic programming language. It’s “the” language of the moment and the chosen starter language in university courses around the world. It has the biggest year-on-year job demand growth of any language, stated by the Stone River Academy."
+	}, {
+	"name": "Php",
+	"url": "http://www.php.net/",
+	"info": "PHP is the most popular language used to write various web applications, having a more significant edge over its competitors as it is open source and stable. PHP is ranked 6th in the TIOBE programming community index and has grown with 43% on GitHub by a number of pull requests in the last twelve months."
+	}, {
+	"name": "Go",
+	"url": "https://golang.org/",
+	"info": "Go is a free and open source programming language created by Google in 2007. In 2016 its popularity skyrocketed because it emphasizes simplicity, high performance, efficiency and built-in support."
+	}, {
+	"name": "Javascript",
+	"url": "https://www.javascript.com/",
+	"info": "JavaScript is a high-level and dynamic programming language, considered one of the world’s most powerful and popular languages, used to spice up the web pages by making them interactive. With JavaScript, you can display pop-up messages, add effects to the web pages or develop games with the basic functionality."
+	}, {
+	"name": "NET",
+	"url": "https://msdn.microsoft.com/en-us/library/aa903378(v=vs.71).aspx",
+	"info": "Visual Basic .Net is a simple, modern, object-oriented computer programming language developed by Microsoft. Visual Basic .NET is a fast and easy way to create .NET-based applications, including XML Web services, ASP Web applications, desktop applications, and mobile applications."
+	}, {
+	"name": "Ruby",
+	"url": "https://www.ruby-lang.org/en/",
+	"info": "Ranking no. 10 in the TIOBE index, Ruby is a general-purpose programming language, best known for its use in web programming, Rails serving as the framework for the Ruby language."
+	}, {
+	"name": "Swift",
+	"url": "https://developer.apple.com/swift/",
+	"info": "Developed by Apple, Swift is an open source programming language with a continuously growing number of developers that are taking on this easier, flexible, and fun solution. Swift is used to building apps for iOS, MacOS, WatchOS, and tvOS and it can reduce the length of the code, saving time and energy."
+	}, {
+	"name": "C#",
+	"url": "https://msdn.microsoft.com/en-us/library/a72418yk.aspx",
+	"info": "Dating since 2000, C# is a new programming language designed by Microsoft for a wide range of enterprise applications that run on the .NET Framework. Still in the shadows of PHP and Java, C# has experienced a growing popularity every year."
+	}, {
+	"name": "Scala",
+	"url": "https://www.scala-lang.org/",
+	"info": "Scala is a type-safe programming language that incorporates both object-oriented and functional programming into an extremely concise, logical, and extraordinarily powerful language. This rockstar programming language can handle huge data with its libraries, match patterns and focus on interactive development."
+	}
+]

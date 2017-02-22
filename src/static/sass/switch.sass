@@ -1,0 +1,43 @@
+
+.form
+  width: 240px
+  margin: 0 auto
+  -webkit-box-reflect: below -40px -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(250, 250, 250, 0.1)));
+
+.switch-field
+  font-family: "Lucida Grande", Tahoma, Verdana, sans-serif
+  padding: 20px 0
+  overflow: hidden
+
+.switch-title
+  margin-bottom: 6px
+
+.switch-field
+  input
+    display: none
+  label
+    float: left
+    display: inline-block
+    width: 120px
+    background-color: #e4e4e4
+    color: rgba(0, 0, 0, 0.6)
+    font-size: 14px
+    font-weight: normal
+    text-align: center
+    text-shadow: none
+    padding: 6px 14px
+    border: 1px solid rgba(0, 0, 0, 0.2)
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3), 0 1px rgba(255, 255, 255, 0.1)
+    transition: all 0.1s ease-in-out
+    &:hover
+      cursor: pointer
+  input:checked + label
+    pointer-events: none
+    background-color: rgba(185, 165, 85, 0.85)
+    -webkit-box-shadow: none
+    box-shadow: none
+  label
+    &:first-of-type
+      border-radius: 4px 0 0 4px
+    &:last-of-type
+      border-radius: 0 4px 4px 0

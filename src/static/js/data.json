@@ -1,0 +1,115 @@
+[
+ {
+    "name": "BackboneJS",
+    "url": "http://backbonejs.org/",
+    "info": "Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable",
+    "type": ["libraries", "JavaScript Libraries"]
+  }, {
+    "name": "jQuery",
+    "url": "http://jquery.com/",
+    "info": "jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.",
+    "type": ["libraries", "JavaScript Libraries"]
+  }, {
+    "name": "React",
+    "desc": "Frameworks and Libraries Search",
+    "url": "http://facebook.github.io/react/",
+    "info": "React (sometimes styled React.js or ReactJS) is an open-source JavaScript library providing a view for data rendered as HTML. React views are typically rendered using components that contain additional components specified as custom HTML tags.",
+    "type": ["libraries", "JavaScript Libraries"]
+  },  {
+    "name": "Knockout",
+    "url": "http://knockoutjs.com/",
+    "info": "KnockoutJS is basically a library written in JavaScript that is based on MVVM pattern that helps developers building rich and responsive websites. This separates the application\"s Model (stored data), View (UI) and View Model (Javascript Representation of model). KO is an abbreviation used for KnockoutJS.",
+    "type": ["libraries", "JavaScript Libraries"]
+  }, {
+    "name": "Dojo",
+    "url": "http://dojotoolkit.org/",
+    "info": "Dojo Toolkit (stylized as dōjō toolkit) is an open source modular JavaScript library (or more specifically JavaScript toolkit) designed to ease the rapid development of cross-platform, JavaScript/Ajax-based applications and web sites.",
+    "type": ["libraries", "JavaScript Libraries"]
+  }, {
+    "name": "Mootools",
+    "url": "http://mootools.net/",
+    "info": "MooTools is a collection of JavaScript utilities designed for the intermediate to advanced JavaScript developer. It allows you to write powerful and flexible code with its elegant, well documented, and coherent APIs.",
+    "type": ["libraries", "JavaScript Libraries"]
+  }, {
+    "name": "Underscore",
+    "url": "http://underscorejs.org/",
+    "info": "Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects. ... Underscore is an open-source component of DocumentCloud.",
+    "type": ["libraries", "JavaScript Libraries"]
+  }, {
+    "name": "Lodash",
+    "url": "http://lodash.com/",
+    "info": "Lodash is a toolkit of Javascript functions that provides clean, performant methods for manipulating objects and collections. It is a 'fork' of the Underscore library and provides additional functionality as well as some serious performance improvements.",
+    "type": ["libraries", "JavaScript Libraries"]
+  }, {
+    "name": "Moment",
+    "url": "http://momentjs.com/",
+    "info": "A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.",
+    "type": ["libraries", "JavaScript Libraries"]
+  }, {
+    "name": "Angular",
+    "url": "https://angularjs.org/",
+    "info": "AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. Angular's data binding and dependency injection eliminate much of the code you would otherwise have to write.",
+    "type": ["frameworks", "Web Application Frameworks"]
+  },{
+    "name": "Prototype",
+    "url": "http://www.prototypejs.org/",
+    "info": "The Prototype JavaScript Framework is a JavaScript framework created by Sam Stephenson in February 2005 as part of the foundation for Ajax support in Ruby on Rails. It is implemented as a single file of JavaScript code, usually named prototype.js.",
+    "type": ["frameworks", "Web Application Frameworks"]
+  }, {
+    "name": "Ember",
+    "url": "http://emberjs.com/",
+    "info": "Ember.js is an open-source JavaScript web framework, based on the Model–view–viewmodel (MVVM) pattern. It allows developers to create scalable single-page web applications by incorporating common idioms and best practices into the framework.",
+    "type": ["frameworks", "Web Application Frameworks"]
+  },{
+    "name": "Express",
+    "url": "http://expressjs.com/",
+    "info": "expressjs.com. Express.js, or simply Express, is a web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It is the de facto standard server framework for Node.js.",
+    "type": ["frameworks", "Web Application Frameworks"]
+  }, {
+    "name": "Koa",
+    "url": "http://koajs.com/",
+    "info": "Expressive, light-weight HTTP framework for node.js to make web applications and APIs more enjoyable to write. Koa requests flow through middleware in a stack-like manner, allowing you to perform actions downstream then filter and manipulate the response upstream.",
+    "type": ["frameworks", "Web Application Frameworks"]
+  }, {
+    "name": "Sass",
+    "url": "http://sass-lang.com/",
+    "info": "Sass is an extension of CSS that adds power and elegance to the basic language. It allows you to use variables, nested rules, mixins, inline imports, and more, all with a fully CSS-compatible syntax. Sass helps keep large stylesheets well-organized, and get small stylesheets up and running quickly, particularly with the help of the Compass style library.",
+    "type": ["CSS", "Css Prepocessors"]
+  }, {
+    "name": "Less",
+    "url": "http://lesscss.org/",
+    "info": "Less is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow variables, mixins, functions and many other techniques that allow you to make CSS that is more maintainable, themeable and extendable.",
+    "type": ["CSS", "Css Prepocessors"]
+  }, {
+    "name": "Stylus",
+    "url": "http://stylus-lang.com/",
+    "info": "Stylus is another one that’s been a strong competitor to Sass, and is a feature-rich extension of CSS. It has over 60 custom functions including saturation(), which lets you mathematically adjust the saturation of a CSS color.",
+    "type": ["CSS", "Css Prepocessors"]
+  }, {
+    "name": "CSS-Crush",
+    "url": "http://the-echoplex.net/csscrush/",
+    "info": "CSS-Crush has all the features you would expect in a modern CSS preprocessor: auto-vendor-prefixing, variables, mathematical   operations, property inheritance via nested rule sets, and much more.",
+    "type": ["CSS", "Css Prepocessors"]
+  }, {
+    "name": "Myth",
+    "url": "http://www.myth.io/",
+    "info": "Myth, which requires Node.js, lets you use future CSS syntax today without having to wait for web browsers to implement a new  proposed CSS feature or for the W3C to complete the feature’s specs. This means that when the feature is finally supported in modern   browsers, you don’t have to rewrite your code.",
+    "type": ["CSS", "Css Prepocessors"]
+  }, {
+    "name": "Rework",
+    "url": "https://github.com/reworkcss/rework",
+    "info": "Rework is for the hardcore, discerning front-end engineers among us. It’s what you would use if you wanted to roll your own  CSS preprocessor. Myth (discussed earlier) was developed on top of the Rework open-source project.",
+    "type": ["CSS", "Css Prepocessors"]
+  },  {
+    "name": "Haml",
+    "url": "https://haml.info/",
+    "info": "Haml (HTML Abstraction Markup Language) is a lightweight markup language that is used to describe the HTML of a web document. Haml functions as a replacement for inline page templating systems such as PHP, eRuby, and ASP.",
+    "type": ["HTML", "HTML Prepocessors"]
+  },  {
+    "name": "Jade",
+    "url": "https://pugjs.org/",
+    "info": "Jade is an elegant templating language focused on enabling quick HTML coding. No more XML situps and percent prefixes for tags. It is HTML templating how it should be.",
+    "type": ["HTML", "HTML Prepocessors"]
+  },
+  
+]
