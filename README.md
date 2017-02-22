@@ -1,5 +1,8 @@
-React Search - React and SASS
+Web Development Tools - Search - ReactJS, SASS and GTM
 ===============
+
+A search application written with ReactJS to view technology tools and languages used for web development.
+And an implementation of GTM to track virtual page views, seach and click interations.
 
 Quick start
 -----------
@@ -16,85 +19,12 @@ General usage notes
 - Make all changes in src/ directory, minified/compressed stuff is then output by gulp to dist/ (dist/ is deleted everytime gulp is run).
 - Images should be put in src/static/img/. Gulp will apply compression without reducing their quality.
 - JavaScript should go in src/static/js/main.jsx. Gulp will perform eslint on your code and compress main.min.js (and any other js files in that directory) into a single, minified js file.
-- Bower components e.g. jQuery should be added to bower.json. Files will be installed in src/static/bower_components/.
-- Anything not CSS/JS/images should go in src/static/assets/ e.g. fonts, videos, other files.
-- Browser support included for IE11 and above
-
-Coding standards
-----------------
-
-The BV house styles have been written using the following coding standards, which should be used for all projects. These guidelines will likely evolve over time.
-
-General
-
-- Be consistent
-- Code should be clean, commented and readable
-- Use graceful degradation
-- Leave your code tidy, delete commented sections of code prior to completion
-- Assume someone else will need to work on your code after you do
-- Indent code logically
-- Don't repeat yourself
-
-HTML
-
-- Lowercase everything
-- New tag, new line
-- Ensure HTML is valid
-- No inline styles
-
-CSS
-
-- Use lowercase and hyphens for class names
-- Newline for each style property and classname
-- Don't use IDs for class names
-- Don't use !important
-- Use names based on structure, not presentation e.g. btn-primary not btn-green
-- Don't qualify class names with attribute types e.g. .well, not div.well 
-- Include a comment where a selector is included for a specific, not immediately obvious reason
-- Write CSS in a modular way if possible, assume that any element could be included anywhere on the site
-- Try to avoid excessive class hierarchy such as .basket .summar .details .product .description .price {color:#FF000;}
-- Don't use page specific classes
-- Apply styles using a class name rather than an element name (except for base styles)
-- Styles for a specific purpose should be grouped together, not scattered e.g. media queries, browser specific styles
-
-JavaScript
-
-- JS should interact with the DOM using either element IDs, data* attributes or class names that have no styles associated with them, and use the naming convention js-classname, to make it really obvious that they are used only by the JavaScript
-- use braces with all multiline blocks
-- every function should have a comment that briefly explains what it does
-- name functions and variables descriptively
-- camelcase for objects, functions and instances
-
-File Generator
-
-- Set variables at src/static/assets/_file_data.json
-- Set template at src/static/assets/_file_template.html
-- Run the script by typing the terminal command 'gulp generateFiles'
-- It will produce the files in the folder files
-
-Babel
-
-- Plugins and presets added to .babelrc
-
-Eslint
-
-- Added Globals and rules in the .eslintcr for Angular, React, $ and Jquery.
-
-Remember SEO
-
-- Page meta tags including og and any related extra stuff
-- Image alt tags
-- Correct heading structure
-- Semantic markup
-- CSS, JS etc. should be minified
-- Image sizes should be optimised
-- Overall page size should ideally be less than 2MB!
 
 
 Use of Gulp
 ------------
 
-There is a `gulpfile.js` within this repository to make development much quicker for the house styles. All you need to do is:
+There is a `gulpfile.js` within this repository to make development much. All you need to do is:
 
 - Install Node (http://nodejs.org) & Gulp (https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md)
 - Run `npm run setup`
