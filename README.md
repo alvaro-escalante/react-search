@@ -10,7 +10,7 @@ And an implementation of GTM to track virtual page views, seach and click intera
 Live Example
 -----------
 
-https://notoriousseo.com/alvaro/react-search/
+<a target="_blank" href="https://notoriousseo.com/alvaro/react-search/">react-search</a>
 
 Quick start
 -----------
